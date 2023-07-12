@@ -6,8 +6,7 @@ We implement a verion of Thisletwaite's algorithm along with pattern database te
 This project is done with my coding partner Liam Dehaudt, written in C++ with OpenGL visualizer.
 
 
-## Screenshot
-![alt text](screenshots/3.png)
+
 
 ## How it works
 
